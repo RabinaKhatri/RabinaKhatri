@@ -39,9 +39,6 @@ dashboards that turn raw data into clear, decision-ready insight.
 
 <br/>
 
-
-<br/>
-
 ### 🛠️ Tools
 
 ![SSMS](https://img.shields.io/badge/-SSMS-CBAACB?style=flat-square)
