@@ -31,7 +31,6 @@ dashboards that turn raw data into clear, decision-ready insight.
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2A6BC?style=for-the-badge&logoColor=white)
 
 ![Data Quality](https://img.shields.io/badge/DATA%20QUALITY-C97B98?style=for-the-badge&logoColor=white)
-![Validation & Reconciliation](https://img.shields.io/badge/VALIDATION%20%26%20RECONCILIATION-E39CB3-lightgrey?style=for-the-badge&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F0B3C4?style=for-the-badge&logoColor=white)
 
 <br/>
