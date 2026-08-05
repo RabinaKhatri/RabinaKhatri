@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/3e053fab-04de-4df5-9dcd-dac1fb3659c9" width="150" height="150" alt="Rabina Photo" />
+<img src="https://github.com/user-attachments/assets/3e053fab-04de-4df5-9dcd-dac1fb3659c9" width="180" height="180" alt="Rabina Photo" />
 
 <br/><br/>
 
