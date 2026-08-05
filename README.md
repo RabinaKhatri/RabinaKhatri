@@ -31,7 +31,6 @@ dashboards that turn raw data into clear, decision-ready insight.
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2A6BC?style=for-the-badge&logoColor=white)
 
 ![Data Quality](https://img.shields.io/badge/DATA%20QUALITY-C97B98?style=for-the-badge&logoColor=white)
-![Validation & Reconciliation](https://img.shields.io/badge/VALIDATION%20%26%20RECONCILIATION-E39CB3-lightgrey?style=for-the-badge&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F0B3C4?style=for-the-badge&logoColor=white)
 
 <br/>
@@ -61,8 +60,8 @@ dashboards that turn raw data into clear, decision-ready insight.
 
 ### 📫 Reach Me
 
-[![Gmail](https://img.shields.io/badge/-rabinabhattarai74%40gmail.com-D88CA3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabinabhattarai74@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Rabina%20Khatri-CBAACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabina-khatri-b95871349/)
+[![Gmail](https://img.shields.io/badge/-rabinabhattarai74%40gmail.com-D88CA3?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:rabinabhattarai74@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Rabina%20Khatri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/rabina-khatri-b95871349/)
 
 <br/>
 
