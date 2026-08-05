@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=D88CA3&center=true&vCenter=true&width=500&lines=Data+Migration+%26+QA+Intern;SQL+Server+%7C+Power+BI+Enthusiast;Turning+Raw+Data+Into+Insight;Building+Reliable+Data+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=D88CA3&center=true&vCenter=true&width=500&lines=Data+Migration+%26+QA+Engineer;SQL+Server+%7C+Power+BI+Enthusiast;Turning+Raw+Data+Into+Insight;Building+Reliable+Data+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,6 @@ dashboards that turn raw data into clear, decision-ready insight.
 ![Data Migration](https://img.shields.io/badge/DATA%20MIGRATION-B76E8C?style=for-the-badge&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-D88CA3?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2A6BC?style=for-the-badge&logoColor=white)
-
 ![Data Quality](https://img.shields.io/badge/DATA%20QUALITY-C97B98?style=for-the-badge&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F0B3C4?style=for-the-badge&logoColor=white)
 
