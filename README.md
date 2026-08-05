@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<code>Data Migration & QA Intern</code> · <code>SQL Server</code> · <code>Power BI</code>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=D88CA3&center=true&vCenter=true&width=500&lines=Data+Migration+%26+QA+Intern;SQL+Server+%7C+Power+BI+Enthusiast;Turning+Raw+Data+Into+Insight;Building+Reliable+Data+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -59,7 +59,10 @@ dashboards that turn raw data into clear, decision-ready insight.
 
 <br/>
 
-📫 **Reach me:** _add your email or LinkedIn here_
+### 📫 Reach Me
+
+[![Gmail](https://img.shields.io/badge/-rabinabhattarai74%40gmail.com-D88CA3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabinabhattarai74@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Rabina%20Khatri-CBAACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabina-khatri-b95871349/)
 
 <br/>
 
