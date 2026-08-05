@@ -16,7 +16,7 @@
 
 <br/>
 
-Data & QA enthusiast building clean, reliable data workflows —<br/>
+Data & QA enthusiast building clean, reliable data workflows <br/>
 from SQL Server table design and CRUD operations to Power BI<br/>
 dashboards that turn raw data into clear, decision-ready insight.
 
@@ -39,13 +39,6 @@ dashboards that turn raw data into clear, decision-ready insight.
 
 <br/>
 
-### 📌 Pinned Work
-
-**[Data-Migration-QA-Toolkit](#)** — SQL migration scripts with QA validation, reconciliation reports, and a Power BI dashboard summarizing checks.
-
-**[Employee-Department-Database](#)** — SQL Server project demonstrating table relationships, CRUD operations, and structured queries.
-
-**[Network-Traffic-Data-Analysis](#)** — Python analytics project covering data preprocessing, visualization, and EDA.
 
 <br/>
 
