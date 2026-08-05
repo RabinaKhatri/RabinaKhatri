@@ -49,7 +49,9 @@ dashboards that turn raw data into clear, decision-ready insight.
 
 <br/>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-### 📫 Reach Me
+<br/> 
+
+📫 **Reach Me**
 
 [![Gmail](https://img.shields.io/badge/-rabinabhattarai74%40gmail.com-D88CA3?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:rabinabhattarai74@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Rabina%20Khatri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/rabina-khatri-b95871349/)
