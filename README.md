@@ -21,6 +21,7 @@ from SQL Server table design and CRUD operations to Power BI<br/>
 dashboards that turn raw data into clear, decision-ready insight.
 
 <br/><br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### ✦ Focus Areas ✦
 
@@ -47,7 +48,7 @@ dashboards that turn raw data into clear, decision-ready insight.
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-CBAACB?style=flat-square)
 
 <br/>
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### 📫 Reach Me
 
 [![Gmail](https://img.shields.io/badge/-rabinabhattarai74%40gmail.com-D88CA3?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:rabinabhattarai74@gmail.com)
